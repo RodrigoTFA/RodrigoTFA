@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoTFA
 - 👀 I’m interested in studying, understanding, putting into practice and achieving a desire, the old dream of working in the IT field.
-- 🌱 I’m currently learning Java, Python  
+- 🌱 I’m currently learning Java, Python, JS, CSS, C, Android...  
 - 💞️ I’m looking to collaborate on 
 whatever it takes, commit to seeking more and more knowledge to carry out the task.
 - 📫 How to reach me  emial rtadeu@live.com 
